@@ -18,7 +18,7 @@ Telegram бот на aiogram с поддержкой PostgreSQL, Redis, мног
 
 ```bash
 git clone <repository-url>
-cd PythonProject11
+cd Telegram Bot с PostgreSQL и Redis
 python -m venv .venv
 # Windows
 .venv\Scripts\activate
